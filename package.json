@@ -1,0 +1,23 @@
+{
+  "name": "11-amp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noemitaneo/11-amp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noemitaneo/11-amp/issues"
+  },
+  "homepage": "https://github.com/Noemitaneo/11-amp#readme",
+  "devDependencies": {
+    "@ampproject/eleventy-plugin-amp": "^0.5.8"
+  }
+}
